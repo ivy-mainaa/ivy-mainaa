@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Ivy 👋
 
-<!--
-**ivy-mainaa/ivy-mainaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science graduate focused on:
+- Machine Learning & predictive modeling  
+- Scalable data pipelines  
+- Responsible, policy-aware AI systems  
 
-Here are some ideas to get you started:
+### Featured Projects
+- 🛒 **E-commerce Purchase Intent Prediction** — end-to-end ML pipeline using session behavior.
+- ⚙️ **Scalable Data Pipeline (PySpark)** — Bronze–Silver–Gold architecture for event data.  
+- 🧠 **AI System Risk Analysis** — evaluating bias and governance tradeoffs in AI moderation systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/ivy-maina-ml/
+
+
